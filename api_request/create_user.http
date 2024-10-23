@@ -1,0 +1,16 @@
+POST http://localhost:8080/adduser
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjUyNjM2MDAsInBhc3N3b3JkIjoicGFzc3dvcmQwMSIsInVzZXJuYW1lIjoiS29obGkifQ.FfrxPYioFA2IgmfqJsl1lUPs2qFpsV8dq3ZtFJ1gh8A
+
+{   
+    "name":"Tom holand",
+    "location": "England",
+    "age": 35
+}
+
+
+
+
+
+
+

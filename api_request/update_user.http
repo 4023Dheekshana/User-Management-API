@@ -1,0 +1,9 @@
+POST http://localhost:8080/updateuser/1
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjE5NzkyMjgsInBhc3N3b3JkIjoicGFzc3dvcmQwMSIsInVzZXJuYW1lIjoiS29obGkifQ.Qt_ag9YGaHX8HMMb2Gu77PKk9Is9DrAogHY9r_fjK84
+
+{
+    "name":"Rowoon",
+    "location":"South korea",
+    "age": 32
+}
